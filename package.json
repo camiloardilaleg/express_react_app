@@ -1,0 +1,29 @@
+{
+  "name": "express_react_app",
+  "version": "1.0.0",
+  "description": "creating a express app using react as a user interface library",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camiloardilaleg/express_react_app.git"
+  },
+  "keywords": [
+    "express",
+    "app",
+    "react"
+  ],
+  "author": "Camilo Ardila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camiloardilaleg/express_react_app/issues"
+  },
+  "homepage": "https://github.com/camiloardilaleg/express_react_app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
