@@ -18,3 +18,4 @@ Este problema fue solucionado vía los siguientes comandos:
 git rm -rf --cached .
 ```
 Posteriormente, elimitar el .gitignore. Después, crear el gitignore y colocar los archivos de nuevo que se quieren ignorar
+```
